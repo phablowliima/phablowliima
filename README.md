@@ -38,7 +38,7 @@
 
 ### 🎮 Snake Game
 
-![Snake Animation](https://github.com/arijunior2020/arijunior2020/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/phablowliima/phablowliima/blob/output/github-contribution-grid-snake.svg)
 
 #### 🛜 Redes Sociais
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phablowliima/)
