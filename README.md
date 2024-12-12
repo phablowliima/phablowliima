@@ -34,9 +34,10 @@
 
 ![Phabllowliima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phablowliima&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+.
 
-### 🎮 Snake Game
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phablowliima_&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ![Snake Animation](https://github.com/phablowliima/phablowliima/blob/output/github-contribution-grid-snake.svg)
 
