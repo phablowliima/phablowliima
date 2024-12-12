@@ -1,4 +1,4 @@
-# Olá! Como você está? É um prazer ter você aqui! Grato desde já pela sua disponibilidade e tempo! 🙏
+## Olá! Como você está? É um prazer ter você aqui! Grato desde já pela sua disponibilidade e tempo! 🙏
 
 👨‍💻 Sou apaixonado por tecnologia e estou em constante evolução. Tenho experiência em Desenvolvimento de Sites usando HTML, CSS e JavaScript, e atualmente estou me aprofundando no universo Fullstack através de um curso da Escola Pixels & IW Training.
 
@@ -13,7 +13,7 @@
 📜 Certificação:
 ✅ Desenvolvimento de Site Simples usando HTML, CSS e JavaScript - Bradesco Academy
 
-## 🚀 Tecnologias que uso e estou aprendendendo a usar
+### 🚀 Tecnologias que uso e estou aprendendendo a usar
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,7 +30,7 @@
 
 
 
-## 📊 Estatísticas de GitHub
+### 📊 Estatísticas de GitHub
 
 ![Phabllowliima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phablowliima&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
@@ -41,7 +41,7 @@
 
 ![Snake Animation](https://github.com/phablowliima/phablowliima/blob/output/github-contribution-grid-snake.svg)
 
-#### 🛜 Redes Sociais
+### 🛜 Redes Sociais
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phablowliima/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phablowliima/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@phabllow/)
